@@ -1,3 +1,7 @@
 body {
 	background: lavender;
 }
+
+.name {
+    color: red;
+}
